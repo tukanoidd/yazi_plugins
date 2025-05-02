@@ -1,0 +1,196 @@
+{
+  "nodes": {
+    "exifaudio": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1741234710,
+        "narHash": "sha256-qRUAKlrYWV0qzI3SAQUYhnL3QR+0yiRc+0XbN/MyufI=",
+        "owner": "Sonico98",
+        "repo": "exifaudio.yazi",
+        "rev": "7ff714155f538b6460fdc8e911a9240674ad9b89",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Sonico98",
+        "repo": "exifaudio.yazi",
+        "type": "github"
+      }
+    },
+    "glow": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1744719787,
+        "narHash": "sha256-4krck4U/KWmnl32HWRsblYW/biuqzDPysrEn76buRck=",
+        "owner": "Reledia",
+        "repo": "glow.yazi",
+        "rev": "2da96e3ffd9cd9d4dd53e0b2636f83ff69fe9af0",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Reledia",
+        "repo": "glow.yazi",
+        "type": "github"
+      }
+    },
+    "hexyl": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1744660531,
+        "narHash": "sha256-ly/cLKl2y3npoT2nX8ioGOFcRXI4UXbD9Es/5veUhOU=",
+        "owner": "Reledia",
+        "repo": "hexyl.yazi",
+        "rev": "016a09bcc249dd3ce06267d54cc039e73de9c647",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Reledia",
+        "repo": "hexyl.yazi",
+        "type": "github"
+      }
+    },
+    "lazygit": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1743429988,
+        "narHash": "sha256-OJJPgpSaUHYz8a9opVLCds+VZsK1B6T+pSRJyVgYNy8=",
+        "owner": "Lil-Dank",
+        "repo": "lazygit.yazi",
+        "rev": "7a08a0988c2b7481d3f267f3bdc58080e6047e7d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Lil-Dank",
+        "repo": "lazygit.yazi",
+        "type": "github"
+      }
+    },
+    "mdcat": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1745481020,
+        "narHash": "sha256-lrPFBZASnBkjfJBeQmZizllMr+IoT0Ws+Axa0FBzR0o=",
+        "owner": "GrzegorzKozub",
+        "repo": "mdcat.yazi",
+        "rev": "7b7380a4ba81a0dc31243b9f55e4f7c255a41984",
+        "type": "github"
+      },
+      "original": {
+        "owner": "GrzegorzKozub",
+        "repo": "mdcat.yazi",
+        "type": "github"
+      }
+    },
+    "mediainfo": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1744889308,
+        "narHash": "sha256-EDEIiZJy/RfXVaLNsKDeklH4qY2h+js2m0y6VSAjPkk=",
+        "owner": "boydaihungst",
+        "repo": "mediainfo.yazi",
+        "rev": "9629b1e85c3757c834ec83fb7d931982c55f4c3f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "boydaihungst",
+        "repo": "mediainfo.yazi",
+        "type": "github"
+      }
+    },
+    "miller": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1744894683,
+        "narHash": "sha256-pZpx7V5ud5JhEkgkfVBSuM0CFIIUXZZ+pOX0xVlHf+0=",
+        "owner": "Reledia",
+        "repo": "miller.yazi",
+        "rev": "0a3d1316e38132ae9a6b91fbd69bab295cbbf2fe",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Reledia",
+        "repo": "miller.yazi",
+        "type": "github"
+      }
+    },
+    "nix-lib": {
+      "locked": {
+        "lastModified": 1725932135,
+        "narHash": "sha256-lOth3aX2oK1KGNBIKJDDrVSW7DqZHkyT+FvjZ9r7bOk=",
+        "owner": "ekala-project",
+        "repo": "nix-lib",
+        "rev": "f3baad9fc4df31152e6150712204bb391214fdd7",
+        "type": "github"
+      },
+      "original": {
+        "owner": "ekala-project",
+        "repo": "nix-lib",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "exifaudio": "exifaudio",
+        "glow": "glow",
+        "hexyl": "hexyl",
+        "lazygit": "lazygit",
+        "mdcat": "mdcat",
+        "mediainfo": "mediainfo",
+        "miller": "miller",
+        "nix-lib": "nix-lib",
+        "starship": "starship",
+        "what-size": "what-size",
+        "yazi-plugins": "yazi-plugins"
+      }
+    },
+    "starship": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1745160020,
+        "narHash": "sha256-+CSdghcIl50z0MXmFwbJ0koIkWIksm3XxYvTAwoRlDY=",
+        "owner": "Rolv-Apneseth",
+        "repo": "starship.yazi",
+        "rev": "6fde3b2d9dc9a12c14588eb85cf4964e619842e6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Rolv-Apneseth",
+        "repo": "starship.yazi",
+        "type": "github"
+      }
+    },
+    "what-size": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1744016119,
+        "narHash": "sha256-M1phqmo318/VYkLWiqjEWuHlnQ+hfz5H+k8G0zsmclg=",
+        "owner": "pirafrank",
+        "repo": "what-size.yazi",
+        "rev": "f1c6b691363e602d0ddbee29384017d08b608f64",
+        "type": "github"
+      },
+      "original": {
+        "owner": "pirafrank",
+        "repo": "what-size.yazi",
+        "type": "github"
+      }
+    },
+    "yazi-plugins": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1745752575,
+        "narHash": "sha256-m3709h7/AHJAtoJ3ebDA40c77D+5dCycpecprjVqj/k=",
+        "owner": "yazi-rs",
+        "repo": "plugins",
+        "rev": "864a0210d9ba1e8eb925160c2e2a25342031d8d3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "yazi-rs",
+        "repo": "plugins",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
