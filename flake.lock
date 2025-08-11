@@ -3,11 +3,11 @@
     "exifaudio": {
       "flake": false,
       "locked": {
-        "lastModified": 1741234710,
-        "narHash": "sha256-qRUAKlrYWV0qzI3SAQUYhnL3QR+0yiRc+0XbN/MyufI=",
+        "lastModified": 1750388105,
+        "narHash": "sha256-RWCqWBpbmU3sh/A+LBJPXL/AY292blKb/zZXGvIA5/o=",
         "owner": "Sonico98",
         "repo": "exifaudio.yazi",
-        "rev": "7ff714155f538b6460fdc8e911a9240674ad9b89",
+        "rev": "4506f9d5032e714c0689be09d566dd877b9d464e",
         "type": "github"
       },
       "original": {
@@ -19,11 +19,11 @@
     "glow": {
       "flake": false,
       "locked": {
-        "lastModified": 1744719787,
-        "narHash": "sha256-4krck4U/KWmnl32HWRsblYW/biuqzDPysrEn76buRck=",
+        "lastModified": 1749849023,
+        "narHash": "sha256-mzW/ut/LTEriZiWF8YMRXG9hZ70OOC0irl5xObTNO40=",
         "owner": "Reledia",
         "repo": "glow.yazi",
-        "rev": "2da96e3ffd9cd9d4dd53e0b2636f83ff69fe9af0",
+        "rev": "bd3eaa58c065eaf216a8d22d64c62d8e0e9277e9",
         "type": "github"
       },
       "original": {
@@ -51,11 +51,11 @@
     "lazygit": {
       "flake": false,
       "locked": {
-        "lastModified": 1743429988,
-        "narHash": "sha256-OJJPgpSaUHYz8a9opVLCds+VZsK1B6T+pSRJyVgYNy8=",
+        "lastModified": 1754466897,
+        "narHash": "sha256-rR7SMTtQYrvQjhkzulDaNH/LAA77UnXkcZ50WwBX2Uw=",
         "owner": "Lil-Dank",
         "repo": "lazygit.yazi",
-        "rev": "7a08a0988c2b7481d3f267f3bdc58080e6047e7d",
+        "rev": "8f37dc5795f165021098b17d797c7b8f510aeca9",
         "type": "github"
       },
       "original": {
@@ -83,11 +83,11 @@
     "mediainfo": {
       "flake": false,
       "locked": {
-        "lastModified": 1749098782,
-        "narHash": "sha256-HUD8Sv1C4gzZRvSEIYqcmm+A0mBYDuwZHCNH26kipS0=",
+        "lastModified": 1754473534,
+        "narHash": "sha256-CHigaujMHd1BuYyyxzI5B4ZYQhuH2YZptVVJToq39sY=",
         "owner": "boydaihungst",
         "repo": "mediainfo.yazi",
-        "rev": "a7d1aa69a1a107e64540c17f19ac94be1366769f",
+        "rev": "0e2ae47cfb2b7c7a32d714c753b1cebbaa75d127",
         "type": "github"
       },
       "original": {
@@ -145,11 +145,11 @@
     "starship": {
       "flake": false,
       "locked": {
-        "lastModified": 1748798679,
-        "narHash": "sha256-q1G0Y4JAuAv8+zckImzbRvozVn489qiYVGFQbdCxC98=",
+        "lastModified": 1751987592,
+        "narHash": "sha256-PYeR6fiWDbUMpJbTFSkM57FzmCbsB4W4IXXe25wLncg=",
         "owner": "Rolv-Apneseth",
         "repo": "starship.yazi",
-        "rev": "6a0f3f788971b155cbc7cec47f6f11aebbc148c9",
+        "rev": "a63550b2f91f0553cc545fd8081a03810bc41bc0",
         "type": "github"
       },
       "original": {
@@ -161,11 +161,11 @@
     "what-size": {
       "flake": false,
       "locked": {
-        "lastModified": 1748452520,
-        "narHash": "sha256-3prRpFuz1ZjPkpl1h4WCL7HY7XhIWGU5hg1E8bG/8f0=",
+        "lastModified": 1750345856,
+        "narHash": "sha256-s2BifzWr/uewDI6Bowy7J+5LrID6I6OFEA5BrlOPNcM=",
         "owner": "pirafrank",
         "repo": "what-size.yazi",
-        "rev": "0a4904cf4f8f14d36fe72976d9b6b7597cd303ee",
+        "rev": "d8966568f2a80394bf1f9a1ace6708ddd4cc8154",
         "type": "github"
       },
       "original": {
@@ -177,11 +177,11 @@
     "yazi-plugins": {
       "flake": false,
       "locked": {
-        "lastModified": 1748701279,
-        "narHash": "sha256-ZCLJ6BjMAj64/zM606qxnmzl2la4dvO/F5QFicBEYfU=",
+        "lastModified": 1753282815,
+        "narHash": "sha256-ixZKOtLOwLHLeSoEkk07TB3N57DXoVEyImR3qzGUzxQ=",
         "owner": "yazi-rs",
         "repo": "plugins",
-        "rev": "63f9650e522336e0010261dcd0ffb0bf114cf912",
+        "rev": "de53d90cb2740f84ae595f93d0c4c23f8618a9e4",
         "type": "github"
       },
       "original": {
